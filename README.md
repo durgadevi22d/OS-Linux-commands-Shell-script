@@ -168,10 +168,10 @@ hello world
 cat newfile | grep -i -c "hello"
 ## OUTPUT
 2
-
 grep -R ubuntu /etc
 ## OUTPUT
-![image](https://github.com/durgadevi22d/OS-Linux-commands-Shell-script/assets/149987216/78cb7b05-90d3-493c-ab63-21f59e0b8390)
+![Screenshot 2024-03-07 222614](https://github.com/durgadevi22d/OS-Linux-commands-Shell-script/assets/149987216/4398ab59-d5d2-466a-8b79-b1f674437ab1)
+
 
 grep -w -n world newfile   
 ## OUTPUT
@@ -492,7 +492,8 @@ www.mrcet.com
 #Backup commands
 tar -cvf backup.tar *
 ## OUTPUT
-![image](https://github.com/durgadevi22d/OS-Linux-commands-Shell-script/assets/149987216/ff0be038-9098-4caf-bc37-27002da4273a)
+![image](https://github.com/durgadevi22d/OS-Linux-commands-Shell-script/assets/149987216/ad1395d4-2b4d-4807-b6df-9dca24794443)
+
 
 
 mkdir backupdir
@@ -501,12 +502,14 @@ mv backup.tar backupdir
  
 tar -tvf backup.tar
 ## OUTPUT
-![image](https://github.com/durgadevi22d/OS-Linux-commands-Shell-script/assets/149987216/037c2923-87d4-462f-9a01-1bcb4ea075d5)
+![image](https://github.com/durgadevi22d/OS-Linux-commands-Shell-script/assets/149987216/d9f12f71-4c01-412d-ad49-38c3afb8b27a)
+
 
 
 tar -xvf backup.tar
 ## OUTPUT
-![image](https://github.com/durgadevi22d/OS-Linux-commands-Shell-script/assets/149987216/9bf9e0d2-66af-48b4-9d91-9f841454b7c4)
+![Screenshot 2024-03-07 222337](https://github.com/durgadevi22d/OS-Linux-commands-Shell-script/assets/149987216/ef1ee865-fc56-4fcc-9f1a-2a081432c0e0)
+
 
 gzip backup.tar
 

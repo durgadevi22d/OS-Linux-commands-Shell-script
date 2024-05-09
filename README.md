@@ -1,7 +1,9 @@
 # OS-Linux-commands-Shell-scripting
-Operating systems Lab exercise
-# Linux commands-Shell scripting
-Linux commands-Shell scripting
+
+# EX01-OS-Linux commands-Shell scripting
+
+## Developed by: DURGADEVI P
+## Register Number: 212223100006
 
 # AIM:
 To practice Linux Commands and Shell Scripting
